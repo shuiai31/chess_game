@@ -22,7 +22,7 @@ public class Square extends JButton {
         selected = false;
         setFocusPainted(false);
         setBackground(getColor());
-        setPreferredSize(new Dimension(80, 80));
+        setPreferredSize(new Dimension(90, 90));
         addActionListener((ActionEvent e) -> {
             select();
         });
