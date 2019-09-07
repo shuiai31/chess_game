@@ -1,1 +1,1 @@
-readme
+Simple chess game.
